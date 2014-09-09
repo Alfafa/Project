@@ -151,5 +151,13 @@
         "imageUrl": "img/phones/motorola-charm-with-motoblur.0.jpg", 
         "name": "Motorola CHARM\u2122 with MOTOBLUR\u2122", 
         "snippet": "Motorola CHARM fits easily in your pocket or palm.  Includes MOTOBLUR service."
+    },
+    {
+        "age": 20, 
+        "id": "blackberry-z30", 
+        "imageUrl": "img/phones/blackberry-Z30 side.jpg", 
+        "name": "Blackberry\u2122 Z30", 
+        "snippet": "Blackberry Z30 is a tool for productivity. Keeps your family and friends close. Secures your work data  Includes BES 10."
     }
+
 ]

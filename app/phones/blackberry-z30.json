@@ -1,55 +1,56 @@
 {
-    "additionalFeatures": "Adobe Flash Player 10, Quadband GSM Worldphone, Advance Business Security, Complex Password Secure, Review & Edit Documents with Quick Office, Personal 3G Mobile Hotspot for up to 5 WiFi enabled Devices, Advanced Social Networking brings all social content into a single homescreen widget", 
+    "additionalFeatures": "BES 10 security enabled; battery manager; unlimited home screens; Flash Light support; Blackberry flow\u2122 Blackberry Messenger", 
     "android": {
         "os": "Blackberry 10", 
-        "ui": ""
+        "ui": "Blackberry 10 "
     }, 
     "availability": [
-        "Verizon"
+        "T-Mobile,", 
+        "Telus",
+        "All networks"
     ], 
     "battery": {
-        "standbyTime": "230 hours", 
+        "standbyTime": "267 hours", 
         "talkTime": "8 hours", 
-        "type": "Lithium Ion (Li-Ion) (1400 mAH)"
+        "type": "Lithium Ion (Li-Ion) (1800 mAH)"
     }, 
     "camera": {
         "features": [
-            "Flash", 
             "Video"
         ], 
         "primary": "8.0 megapixels"
     }, 
     "connectivity": {
-        "bluetooth": "version 4", 
-        "cell": "WCDMA 850/1900/2100, CDMA 800/1900, GSM 850/900/1800/1900, HSDPA 10.2 Mbps (Category 9/10), CDMA EV-DO Release A, EDGE Class 12, GPRS Class 12, HSUPA 1.8 Mbps", 
+        "bluetooth": "Bluetooth 4.0", 
+        "cell": "WCDMA 1700/2100, GSM 850/900/1800/1900, HSDPA 3.6 Mbps (Category 5/6), EDGE Class 12, GPRS Class 12", 
         "gps": true, 
         "infrared": false, 
-        "wifi": "802.11 b/g/n"
-        "NFC": "true"
+        "wifi": "802.11 a/b/g/n"
     }, 
-    "description": "With Quad Band GSM.", 
+    "description": "Blackberry fits easily in your pocket or palm. Includes MOTOBLUR so you can sync and merge your contacts, emails, messages and posts with continuous updates and back-ups.", 
     "display": {
-        "screenResolution": "720 x 1280", 
-        "screenSize": "5 inches", 
+        "screenResolution": "720p (720 x 1280)", 
+        "screenSize": "5.0 inches", 
         "touchScreen": true
     }, 
     "hardware": {
         "accelerometer": true, 
         "audioJack": "3.5mm", 
-        "cpu": "Dual core 1.7 GHz Krait", 
-        "fmRadio": false,  
+        "cpu": "Dual core 1.7GHz", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
         "usb": "USB 2.0"
     }, 
-    "id": "Z30-by-Blackberry", 
+    "id": "motorola-charm-with-motoblur", 
     "images": [
         "img/phones/blackberry-Z30.jpg", 
-        "img/phones/droid-2-global-by-motorola.1.jpg", 
-        
+        "img/phones/blackberry-Z30 side.jpg", 
+        "img/phones/blackberry-z30-8.jpg"
     ], 
-    "name": "Blackberry by RIM", 
+    "name": "Blackberry\u2122 Z30", 
     "sizeAndWeight": {
         "dimensions": [
-            "72 mm (w)", 
+           "72 mm (w)", 
             "140.7 mm (h)", 
             "9.4 mm (d)"
         ], 
